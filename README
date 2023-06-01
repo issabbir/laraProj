@@ -1,1 +1,7 @@
-Content Here.
+1) Delete composer.lock + vendor
+2) remove ext* from composer json
+3) composer install
+4) composer require laravel/ui
+5) php artisan ui vue --auth
+6) npm install
+7) npm run watch
