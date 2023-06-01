@@ -1,3 +1,5 @@
+Create env file first, and make changes in db connetion.
+
 1) Delete composer.lock + vendor
 2) remove ext* from composer json
 3) composer install
