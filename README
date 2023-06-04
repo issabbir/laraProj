@@ -9,7 +9,7 @@ Create env file first, and make changes in db connetion.
 7) npm run watch
 
 
->>> php artisan migrate:refresh to migrate new table column
+>>> php artisan migrate:refresh (to migrate new table column)
 
 
 >>> composer create-project --prefer-dist laravel/laravel laraproj (install laravel 8)
