@@ -15,3 +15,5 @@ Create env file first, and make changes in db connetion.
 >>> composer create-project --prefer-dist laravel/laravel laraproj (install laravel 8)
 >>> composer require laravel/jetstream
 >>> php artisan jetstream:install livewire
+
+>>> composer require yajra/laravel-datatables-oracle:"~9.0" for laravel 8.75
